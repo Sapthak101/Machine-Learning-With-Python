@@ -1,0 +1,13 @@
+Pandas is an open source library built on top of NumPy
+It allows for fast analysis and data cleaning and preparation
+It excels in performance and productivity
+It also has built in visualization features
+I also work with data from  a wide variety of souces
+
+Pandas:
+Series
+DataFrames
+Missing Data 
+GroupBy
+Merging, Joining, and Concatenating
+Data Input nad Output

@@ -1,0 +1,12 @@
+Plotly is an interactive visualization library
+CUfflinks connects plotly with pandas
+
+#pip install plotly
+#pip install cufflinks
+#pip install chart-studio
+
+pip install jupyterlab
+
+pip install jupyterlab --upgrade
+
+pip install plotly==3.7.0

@@ -1,0 +1,12 @@
+# NumPy (or NUmpy) is a Linear Alzebra Library Library for python 
+# the reason it is so important for data science with python is that almost all
+# of the libraries in the PyData Ecosystem rely on the NumPy
+# as one of their main building blocks
+# Numpy is also incredibly fast, as it has bindings to C libraries
+# to install numpy in VS Code just type in the powershell command prompt PS C:\ pip install numpy
+# NUmPy arrays are main way we will use Numpy throughout the course
+# NUmpy arrays essentially come in two flavors: vectors and matrices
+# Vectors are strictly 1-d arrays and matrices are 2-d 
+# (a matrix having more than 1 row and 1 column)
+# to update pip 
+# python.exe -m pip install --upgrade pip
